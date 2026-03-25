@@ -1,10 +1,11 @@
-# sangel32323
-Sergio Luis Angel Romero****
  
 <!--
 CONFIG
-FULL_NAME: Jerssin Fabián Buitrago Murcia
-GITHUB_USER: JerssonF
-EMAIL: jfbuitrago-2022b@corhuila.edu.co
+FULL_NAME: Sergio Luis Angel Romero
+GITHUB_USER: sangel3232
+EMAIL: sangel-2022a@corhuila.edu.co
 CODE_ORGANIZATION: code-corhuila 
 -->
+
+# sangel32323
+Sergio Luis Angel Romero****
